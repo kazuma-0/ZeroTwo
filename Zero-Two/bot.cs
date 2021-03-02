@@ -5,7 +5,6 @@ using DSharpPlus.Interactivity;
 using DSharpPlus.Interactivity.Extensions;
 using System;
 using System.IO;
-using System.Text.Json;
 using System.Threading.Tasks;
 using Zero_Two.Commands;
 
